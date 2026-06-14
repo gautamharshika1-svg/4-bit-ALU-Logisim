@@ -28,7 +28,7 @@ A modular **4-bit Arithmetic Logic Unit (ALU)** designed using **Logisim Evoluti
 
 🎥 **Project Simulation**
 
-[▶ Watch / Download Simulation](images/Simulation_ALU.mp4)
+[▶ Watch / Download Simulation](images/simulation_ALU.mp4)
 
 ---
 
